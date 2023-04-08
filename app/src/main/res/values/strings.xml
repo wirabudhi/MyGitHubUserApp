@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="search">Cari</string>
+    <string name="user_profile_image">profile</string>
+    <string name="user_profile_name">username</string>
+    <string name="search_hint">Cari Username</string>
+    <string name="profile_picture">Detail Profile</string>
+    <string name="name">Name User</string>
+    <string name="username">Username</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="TabLayout">Tab Layout</string>
+    <string name="followers_count">%d Followers</string>
+    <string name="following_count">%d Following</string>
+    <string name="add_button">fab favorite</string>
+    <string name="favorite">Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="setting">Setting</string>
+</resources>
